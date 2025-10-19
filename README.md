@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Trần Đức Tâm!
 
-🎓 **Computer Science student** (3rd year) at University of Technology and Engineering (UET - VNU)
+🎓 **Computer Science student** (4th year) at University of Technology and Engineering (UET - VNU)
 
 🙋 Currently focusing on:  
 - Web Development: `ReactJS`, `NodeJS`  
-- Android Development: `Kotlin`, `Jetpack Compose`  
+- Android Development: `Kotlin`, `Jetpack Compose`,  `XML`, `Flutter`
 - Exploring: `Machine Learning`, `Deep Learning`, `Data Science`
 
-🎵 Hobby: 90% of me is music 😻 - I can sing (not perfectly but passionately), play guitar 🎸, and currently learning piano 🎹.
+🎵 Hobby: I can sing, play guitar 🎸, and currently learning piano 🎹.
 
 😉 Contact: [tranductamhoctap@gmail.com](mailto:tranductamhoctap@gmail.com) - [Facebook](https://www.facebook.com/khongphaitamthiai)
 
