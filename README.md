@@ -9,7 +9,7 @@
 
 🎵 Hobby: 90% of me is music 😻 - I can sing (not perfectly but passionately), play guitar 🎸, and currently learning piano 🎹.
 
-😉 Contact: [tranductamhoctap@gmail.com](mailto:tranductamhoctap@gmail.com) - [Facebook](https://www.facebook.com/khongphaitamthiai) - [Youtube](https://www.youtube.com/@Tam-cn5jk)
+😉 Contact: [tranductamhoctap@gmail.com](mailto:tranductamhoctap@gmail.com) - [Facebook](https://www.facebook.com/khongphaitamthiai)
 
 
 # 🛠️ Skills
@@ -24,7 +24,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" title="Jetpack Compose"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Flask"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" title="TensorFlow"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" title="Scikit-Learn"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" title="NumPy"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" title="Pandas"/>
 </p>
